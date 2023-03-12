@@ -12,5 +12,3 @@ Using 40x40x40 Tiles
 ABI CCK (required)
 
 Blender (required)
-
-Shift - Complete Sci-Fi UI (optional)
